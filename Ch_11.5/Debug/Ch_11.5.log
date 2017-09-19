@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\valued customer\documents\college\c++\ch_11.5\ch_11.5\source.cpp(12): warning C4101: 'result': unreferenced local variable
+  Pstring.cpp
+c:\users\valued customer\documents\college\c++\ch_11.5\ch_11.5\pstring.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Ch_11.5.vcxproj -> C:\Users\Valued Customer\Documents\College\C++\Ch_11.5\Debug\Ch_11.5.exe
+  Ch_11.5.vcxproj -> C:\Users\Valued Customer\Documents\College\C++\Ch_11.5\Debug\Ch_11.5.pdb (Full PDB)
